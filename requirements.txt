@@ -7,4 +7,4 @@ django-markwhat==1.6.2
 keyring==5.7.1
 markdown2==2.3.8
 six==1.13.0
-tornado==~
+tornado==5.1.1
